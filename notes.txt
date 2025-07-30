@@ -1,0 +1,2 @@
+Testing GitHub commits and basic file creation.
+This file is just for practice and to make the repository active.
